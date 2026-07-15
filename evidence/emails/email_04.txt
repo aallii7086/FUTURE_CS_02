@@ -1,0 +1,18 @@
+From: security@icici-bank-support.com
+To: user@example.com
+Subject: Urgent: Your ICICI Bank Account Has Been Suspended
+
+Dear Customer,
+
+Due to unusual activity detected on your account, your online banking access has been temporarily suspended.
+
+To restore access immediately, please verify your account information by clicking the secure link below.
+
+Verify Your Account:
+http://icici-secure-login.com/verify
+
+Failure to complete verification within 24 hours may result in permanent account suspension.
+
+Regards,
+
+ICICI Security Department

@@ -1,0 +1,17 @@
+From: support@micr0soft-security.com
+To: user@example.com
+Subject: Action Required: Verify Your Microsoft Account
+
+Dear Customer,
+
+Your Microsoft account requires verification due to unusual login activity.
+
+To continue using your account without interruption, please verify your account information within the next 48 hours.
+
+Verification Portal:
+https://micr0soft-security.com/verify
+
+If no action is taken, your account access may be temporarily restricted.
+
+Thank you,
+Microsoft Support Team

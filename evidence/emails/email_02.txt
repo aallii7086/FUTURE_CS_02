@@ -1,0 +1,19 @@
+From: no-reply@amazon.in
+To: user@example.com
+Subject: Your Amazon Order Has Been Shipped
+
+Hello,
+
+Your recent Amazon order has been shipped successfully.
+
+Order ID: 405-1234567-8910112
+Estimated Delivery: 16 July 2026
+
+You can track your package using the official Amazon website:
+
+https://www.amazon.in/orders
+
+No action is required from your side.
+
+Thank you,
+Amazon Customer Service

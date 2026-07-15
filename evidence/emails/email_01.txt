@@ -1,0 +1,20 @@
+From: notifications@github.com
+To: user@example.com
+Subject: New sign-in to your GitHub account
+
+Hello,
+
+We noticed a new sign-in to your GitHub account.
+
+Time: 10 July 2026
+Device: Firefox on Linux
+Location: Mumbai, India
+
+If this was you, no further action is required.
+
+If you do not recognize this activity, please review your account security settings immediately by visiting the link below.
+
+https://github.com/settings/security-log
+
+Thank you,
+GitHub Security Team

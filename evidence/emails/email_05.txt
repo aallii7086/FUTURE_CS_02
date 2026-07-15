@@ -1,0 +1,21 @@
+From: billing@invoice-payment-services.com
+To: user@example.com
+Subject: Outstanding Invoice #45872 - Immediate Payment Required
+
+Dear Customer,
+
+Our records indicate that Invoice #45872 remains unpaid.
+
+To avoid late payment charges, please review the attached invoice and complete the payment immediately.
+
+Attachment:
+Invoice_45872.zip
+
+Failure to process the payment within 24 hours may result in additional penalties.
+
+If you believe this message was sent in error, please contact our billing department.
+
+Regards,
+
+Accounts Department
+Invoice Payment Services
